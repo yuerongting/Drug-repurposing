@@ -1,9 +1,10 @@
 The code and data needed for reproducing results in the paper.
 
+For Zika virus drug prediction:
+"hetero_Zika_retrain_new_grid_search.py" for the retrained model with grid search;
+"hetero_Zika_retrain_same_setting.py" for the retrained model with the same settings before graph reduction.
 
-The retraining process of the model for predicting drugs for Zika virus is in "hetero_Zika_retrain_same_setting.py" and "hetero_Zika_retrain_new_grid_search.py".
-
-
+For COVID-19 drug prediction:
 "hetero_COVID_retrain_new_grid.py" for the retrained model with grid search;
 "hetero_COVID_retrain_same.py" for the retrained model with the same settings before graph reduction.
 
