@@ -1,5 +1,12 @@
 The code and data needed for reproducing results in the paper.
 
+
+
+Sensitivity analysis:
+For COVID-19: "sensitivity_covid.py";
+For Zika virus: "sensitivity_Zika_GPU.py";
+
+
 For Zika virus drug prediction:
 "hetero_Zika_retrain_new_grid_search.py" for the retrained model with grid search;
 "hetero_Zika_retrain_same_setting.py" for the retrained model with the same settings before graph reduction.
