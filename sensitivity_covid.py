@@ -233,27 +233,11 @@ class GraphConvolution(nn.Module):
         self.reset_parameters()
         self.intermediate_representations = []
 
-
-# =============================================================================
-#     def reset_parameters(self):
-#         nn.init.xavier_uniform_(self.weight)
-# =============================================================================
-
-
     def reset_parameters(self):
         for weight in self.weight_matrices:
 
 
             nn.init.xavier_uniform_(weight)
-
-            # print("Initialization done")
-            # print(torch.min(weight)) ### min value negative
-
-# =============================================================================
-#         for weight in weight_matrices:
-#             nn.init.xavier_uniform_(weight)
-# =============================================================================
-
 
 # %% Forward path
 
@@ -442,15 +426,6 @@ loaded_model = Model(hidden_channels=hidden_channels, num_layers=num_layers).to(
 for key in modified_state_dict:
     new_key = key.replace('<', '__').replace('>', '_')
     loaded_model.state_dict()[new_key] = modified_state_dict[key]
-
-# loaded_model
-
-# torch.save(loaded_model.state_dict(), PATH)
-
-# torch.save(model.state_dict(), current_path + 'model_state_dict')
-
-
-# loaded_model.load_state_dict(torch.load(current_path+'/model_state_dict.pt'))
 
 data_in = data_temp
 
@@ -1130,6 +1105,7 @@ partial_result.shape
 #%% Load sensitivity result
 
 folder_path = "C://Users//yrt05//Downloads//COVID_pred//COVID_pred"
+folder_path = "Data/"
 
 iters = 10
 indices_in_A_bar = torch.ones(1)
