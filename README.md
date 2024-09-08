@@ -1,8 +1,8 @@
-The code and data needed for reproducing results in the paper.
+The code for the paper "Repurposing Drugs for Infectious Diseases by Graph Convolutional Network wish Sensitivity-based Graph Reduction".
 
 
 
-Sensitivity analysis:
+The main algorithm of the sensitivity analysis presented in our paper is implemented below:
 For COVID-19: "sensitivity_covid.py";
 For Zika virus: "sensitivity_Zika_GPU.py";
 
