@@ -1,0 +1,423 @@
+iron-56	interacts with	iron-54
+FeCl3	interacts with	FeCl2
+fradafiban	interacts with	lefradafiban
+iron-55	interacts with	iron-59
+Hcys	interacts with	pyrophosphate
+Hcys	interacts with	MgATP
+Hcys	interacts with	phosphate
+Hcys	interacts with	oxygen
+Hcys	interacts with	cystein
+iron-57	interacts with	iron-58
+cystein	interacts with	manganese
+cystein	interacts with	D-Cys
+cystein	interacts with	Fe(III
+cystein	interacts with	Zn(II
+cystein	interacts with	MgATP
+cystein	interacts with	lysine
+tirofiban	interacts with	eptifibatide
+caffeine	interacts with	MgATP
+caffeine	interacts with	guanosine trip.
+caffeine	interacts with	adenosine
+NFKB1	interacts with	resveratrol
+NFKB1	interacts with	Zn(II
+NFKB1	interacts with	MgATP
+MRAS	interacts with	PIK3CA
+P2RX7	interacts with	P2RY2
+P2RX7	interacts with	CASP1
+P2RX7	interacts with	P2RY1
+P2RX7	interacts with	MYD88
+P2RX7	interacts with	MgATP
+adenine	interacts with	guanosine trip.
+adenine	interacts with	lysine
+adenine	interacts with	Zn(II
+adenine	interacts with	pyrophosphate
+adenine	interacts with	oxygen
+adenine	interacts with	phosphate
+adenine	interacts with	adenosine
+adenine	interacts with	MgATP
+lysine	interacts with	manganese
+lysine	interacts with	Zn(II
+lysine	interacts with	copper
+lysine	interacts with	guanosine trip.
+HMGB1	interacts with	ITGAV
+HMGB1	interacts with	ITGB3
+HMGB1	interacts with	NFKB1
+HMGB1	interacts with	MgATP
+HMGB1	interacts with	TLR2
+KRAS	interacts with	resveratrol
+KRAS	interacts with	MgATP
+KRAS	interacts with	guanosine trip.
+TF	interacts with	IL6
+TF	interacts with	adenosine
+TF	interacts with	Zn(II
+TF	interacts with	oxygen
+TF	interacts with	LY294002 hydro.
+TF	interacts with	phosphate
+TF	interacts with	copper
+TF	interacts with	MgATP
+TF	interacts with	Fe(III
+LY294002 hydro.	interacts with	XL765
+LY294002 hydro.	interacts with	wortmannin
+FN1	interacts with	AKT1
+FN1	interacts with	Zn(II
+FN1	interacts with	adenosine
+FN1	interacts with	copper
+FN1	interacts with	IRS1
+FN1	interacts with	ITGA2B
+FN1	interacts with	MgATP
+FN1	interacts with	TLN1
+FN1	interacts with	guanosine trip.
+FN1	interacts with	phosphate
+FN1	interacts with	manganese
+FN1	interacts with	ITGB3
+FN1	interacts with	ITGAV
+ABCC8	interacts with	oxygen
+ABCC8	interacts with	PLK1
+ABCC8	interacts with	phosphate
+ABCC8	interacts with	MgATP
+manganese	interacts with	Zn(II
+P2RX4	interacts with	P2RY2
+P2RX4	interacts with	P2RY1
+P2RX4	interacts with	MgATP
+IL1R2	interacts with	IL1R1
+IL1R2	interacts with	IL1RAP
+IL1R2	interacts with	IL1B
+PFKM	interacts with	resveratrol
+PFKM	interacts with	AKT1
+PFKM	interacts with	MgATP
+Fe(III	interacts with	iron-55
+Fe(III	interacts with	iron-59
+Fe(III	interacts with	FeCl3
+Fe(III	interacts with	iron-57
+Fe(III	interacts with	Zn(II
+Fe(III	interacts with	manganese
+CCR1	interacts with	STAT3
+CCR1	interacts with	guanosine trip.
+CCR1	interacts with	CCR5
+CCR1	interacts with	adenosine
+CCR1	interacts with	caffeine
+CCR1	interacts with	CCL5
+pyrophosphate	interacts with	cystein
+pyrophosphate	interacts with	Fe(III
+pyrophosphate	interacts with	manganese
+pyrophosphate	interacts with	Zn(II
+pyrophosphate	interacts with	lysine
+pyrophosphate	interacts with	adenosine
+pyrophosphate	interacts with	guanosine trip.
+pyrophosphate	interacts with	MgATP
+P2RY2	interacts with	P2RX1
+P2RY2	interacts with	NFKB1
+P2RY2	interacts with	IL6
+P2RY2	interacts with	CCR5
+P2RY2	interacts with	PIK3CA
+P2RY2	interacts with	lysine
+P2RY2	interacts with	PIK3R1
+P2RY2	interacts with	guanosine trip.
+P2RY2	interacts with	P2RY1
+P2RY2	interacts with	MgATP
+CASP1	interacts with	TLR2
+CASP1	interacts with	adenosine
+CASP1	interacts with	MgATP
+CASP1	interacts with	IL1R2
+CASP1	interacts with	MYD88
+CASP1	interacts with	NFKB1
+CASP1	interacts with	IL1B
+P2RX1	interacts with	copper
+P2RX1	interacts with	wortmannin
+P2RX1	interacts with	MgATP
+STAT3	interacts with	oxygen
+STAT3	interacts with	IL1B
+STAT3	interacts with	TLR2
+STAT3	interacts with	MgATP
+STAT3	interacts with	PIK3CA
+STAT3	interacts with	resveratrol
+STAT3	interacts with	NFKB1
+STAT3	interacts with	IL6
+LCK	interacts with	pyrophosphate
+LCK	interacts with	MgATP
+LCK	interacts with	guanosine trip.
+LCK	interacts with	phosphate
+LCK	interacts with	AKT1
+LCK	interacts with	IRS1
+LCK	interacts with	ITGA2B
+LCK	interacts with	KRAS
+LCK	interacts with	HRAS
+LCK	interacts with	NFKB1
+LCK	interacts with	PIK3R1
+LCK	interacts with	PIK3CA
+LCK	interacts with	STAT3
+TLR6	interacts with	TLR2
+TLN1	interacts with	PIK3R1
+TLN1	interacts with	MgATP
+TLN1	interacts with	guanosine trip.
+TLN1	interacts with	phosphate
+TLN1	interacts with	PIK3CA
+TLN1	interacts with	AKT1
+TLN1	interacts with	manganese
+TLN1	interacts with	ITGAV
+TLN1	interacts with	ITGA2B
+TLN1	interacts with	ITGB3
+TLR2	interacts with	resveratrol
+TLR2	interacts with	gamma-D-gl.l-L.
+TLR2	interacts with	HSPA8
+TLR2	interacts with	IL6
+TLR2	interacts with	NFKB1
+RRAS	interacts with	MgATP
+RRAS	interacts with	phosphate
+RRAS	interacts with	guanosine trip.
+oxygen	interacts with	guanosine trip.
+oxygen	interacts with	resveratrol
+oxygen	interacts with	pyrophosphate
+oxygen	interacts with	cystein
+oxygen	interacts with	caffeine
+oxygen	interacts with	adenosine
+oxygen	interacts with	lysine
+oxygen	interacts with	Zn(II
+oxygen	interacts with	phosphate
+oxygen	interacts with	manganese
+oxygen	interacts with	Fe(III
+oxygen	interacts with	MgATP
+oxygen	interacts with	copper
+IL6ST	interacts with	STAT3
+IL6ST	interacts with	IL6
+CCR3	interacts with	P2RY2
+CCR3	interacts with	guanosine trip.
+CCR3	interacts with	CCR1
+CCR3	interacts with	CCR5
+CCR3	interacts with	adenosine
+CCR3	interacts with	caffeine
+CCR3	interacts with	CCL5
+HSPA8	interacts with	guanosine trip.
+HSPA8	interacts with	phosphate
+HSPA8	interacts with	MgATP
+HSPA8	interacts with	CFTR
+guanosine trip.	interacts with	Zn(II
+guanosine trip.	interacts with	manganese
+guanosine trip.	interacts with	adenosine
+Zn(II	interacts with	adenosine
+copper	interacts with	manganese
+copper	interacts with	Fe(III
+copper	interacts with	Zn(II
+P2RY1	interacts with	AKT1
+P2RY1	interacts with	PIK3R1
+P2RY1	interacts with	PIK3CA
+P2RY1	interacts with	lysine
+P2RY1	interacts with	P2RX1
+P2RY1	interacts with	adenine
+P2RY1	interacts with	guanosine trip.
+P2RY1	interacts with	adenosine
+P2RY1	interacts with	MgATP
+MYD88	interacts with	MgATP
+MYD88	interacts with	STAT3
+MYD88	interacts with	IL6
+MYD88	interacts with	resveratrol
+MYD88	interacts with	IL1B
+MYD88	interacts with	HMGB1
+MYD88	interacts with	NFKB1
+MYD88	interacts with	IL1RAP
+MYD88	interacts with	TLR6
+MYD88	interacts with	TLR2
+MYD88	interacts with	IL1R1
+CFTR	interacts with	adenosine
+CFTR	interacts with	pyrophosphate
+CFTR	interacts with	phosphate
+CFTR	interacts with	resveratrol
+CFTR	interacts with	MgATP
+IRS2	interacts with	PTEN
+IRS2	interacts with	guanosine trip.
+IRS2	interacts with	NRAS
+IRS2	interacts with	LCK
+IRS2	interacts with	KRAS
+IRS2	interacts with	phosphate
+IRS2	interacts with	HRAS
+IRS2	interacts with	MgATP
+IRS2	interacts with	IRS1
+IRS2	interacts with	AKT1
+IRS2	interacts with	PIK3CA
+IRS2	interacts with	PIK3R1
+NRAS	interacts with	CCR5
+NRAS	interacts with	AKT1
+NRAS	interacts with	KRAS
+NRAS	interacts with	HRAS
+NRAS	interacts with	MgATP
+NRAS	interacts with	IRS1
+NRAS	interacts with	PIK3R1
+NRAS	interacts with	LCK
+NRAS	interacts with	guanosine trip.
+NRAS	interacts with	PIK3CA
+IL1B	interacts with	TLR2
+IL1B	interacts with	Zn(II
+IL1B	interacts with	copper
+IL1B	interacts with	resveratrol
+IL1B	interacts with	IL6
+IL1B	interacts with	MgATP
+IL1B	interacts with	NFKB1
+IL1B	interacts with	IL1R1
+AKT1	interacts with	caffeine
+AKT1	interacts with	copper
+AKT1	interacts with	KRAS
+AKT1	interacts with	HSPA8
+AKT1	interacts with	Zn(II
+AKT1	interacts with	ITGA2B
+AKT1	interacts with	IL6
+AKT1	interacts with	phosphate
+AKT1	interacts with	RRAS
+AKT1	interacts with	ITGB3
+AKT1	interacts with	resveratrol
+AKT1	interacts with	guanosine trip.
+AKT1	interacts with	STAT3
+AKT1	interacts with	oxygen
+AKT1	interacts with	manganese
+AKT1	interacts with	NFKB1
+AKT1	interacts with	LY294002 hydro.
+AKT1	interacts with	wortmannin
+AKT1	interacts with	MgATP
+AKT1	interacts with	PIK3CA
+HRAS	interacts with	manganese
+HRAS	interacts with	CCR5
+HRAS	interacts with	Zn(II
+HRAS	interacts with	AKT1
+HRAS	interacts with	KRAS
+HRAS	interacts with	MgATP
+HRAS	interacts with	IRS1
+HRAS	interacts with	PIK3R1
+HRAS	interacts with	guanosine trip.
+HRAS	interacts with	PIK3CA
+PTEN	interacts with	STAT3
+PTEN	interacts with	Zn(II
+PTEN	interacts with	oxygen
+PTEN	interacts with	LY294002 hydro.
+PTEN	interacts with	IRS1
+PTEN	interacts with	pyrophosphate
+PTEN	interacts with	HRAS
+PTEN	interacts with	NRAS
+PTEN	interacts with	KRAS
+PTEN	interacts with	phosphate
+PTEN	interacts with	resveratrol
+PTEN	interacts with	PIK3R1
+PTEN	interacts with	MgATP
+PTEN	interacts with	AKT1
+PTEN	interacts with	PIK3CA
+PIK3CA	interacts with	caffeine
+PIK3CA	interacts with	NVP-BYL719
+PIK3CA	interacts with	ITGAV
+PIK3CA	interacts with	pyrophosphate
+PIK3CA	interacts with	IL1B
+PIK3CA	interacts with	IL1R1
+PIK3CA	interacts with	ITGA2B
+PIK3CA	interacts with	ITGB3
+PIK3CA	interacts with	lysine
+PIK3CA	interacts with	NFKB1
+PIK3CA	interacts with	guanosine trip.
+PIK3CA	interacts with	LY294002 hydro.
+PIK3CA	interacts with	MgATP
+PIK3CA	interacts with	KRAS
+PIK3CA	interacts with	RRAS
+PIK3CA	interacts with	wortmannin
+IL6	interacts with	manganese
+IL6	interacts with	Fe(III
+IL6	interacts with	Zn(II
+IL6	interacts with	Hcys
+IL6	interacts with	LY294002 hydro.
+IL6	interacts with	adenosine
+IL6	interacts with	MgATP
+IL6	interacts with	resveratrol
+IL6	interacts with	copper
+IL6	interacts with	NFKB1
+IL6R	interacts with	cystein
+IL6R	interacts with	STAT3
+IL6R	interacts with	IL6ST
+IL6R	interacts with	IL6
+wortmannin	interacts with	XL765
+PLK1	interacts with	Zn(II
+PLK1	interacts with	guanosine trip.
+PLK1	interacts with	MgATP
+PLK1	interacts with	phosphate
+PLK1	interacts with	wortmannin
+IL1R1	interacts with	MgATP
+IL1R1	interacts with	NFKB1
+IL1RAP	interacts with	IL1B
+IL1RAP	interacts with	IL1R1
+MgATP	interacts with	Fe(III
+MgATP	interacts with	resveratrol
+MgATP	interacts with	wortmannin
+MgATP	interacts with	manganese
+MgATP	interacts with	Zn(II
+MgATP	interacts with	copper
+MgATP	interacts with	lysine
+MgATP	interacts with	guanosine trip.
+MgATP	interacts with	adenosine
+phosphate	interacts with	wortmannin
+phosphate	interacts with	resveratrol
+phosphate	interacts with	cystein
+phosphate	interacts with	manganese
+phosphate	interacts with	Fe(III
+phosphate	interacts with	copper
+phosphate	interacts with	Zn(II
+phosphate	interacts with	lysine
+phosphate	interacts with	adenosine
+phosphate	interacts with	pyrophosphate
+phosphate	interacts with	guanosine trip.
+phosphate	interacts with	MgATP
+PIK3R1	interacts with	NVP-BYL719
+PIK3R1	interacts with	TLR2
+PIK3R1	interacts with	ITGA2B
+PIK3R1	interacts with	pyrophosphate
+PIK3R1	interacts with	IL1B
+PIK3R1	interacts with	ITGB3
+PIK3R1	interacts with	ITGAV
+PIK3R1	interacts with	lysine
+PIK3R1	interacts with	guanosine trip.
+PIK3R1	interacts with	MgATP
+PIK3R1	interacts with	NFKB1
+PIK3R1	interacts with	IL1R1
+PIK3R1	interacts with	STAT3
+PIK3R1	interacts with	wortmannin
+PIK3R1	interacts with	AKT1
+PIK3R1	interacts with	PIK3CA
+IRS1	interacts with	wortmannin
+IRS1	interacts with	ITGAV
+IRS1	interacts with	ITGB3
+IRS1	interacts with	STAT3
+IRS1	interacts with	IL6
+IRS1	interacts with	KRAS
+IRS1	interacts with	guanosine trip.
+IRS1	interacts with	phosphate
+IRS1	interacts with	MgATP
+IRS1	interacts with	AKT1
+IRS1	interacts with	PIK3CA
+IRS1	interacts with	PIK3R1
+ITGA2B	interacts with	lefradafiban
+ITGA2B	interacts with	guanosine trip.
+ITGA2B	interacts with	MgATP
+ITGA2B	interacts with	phosphate
+ITGA2B	interacts with	eptifibatide
+ITGA2B	interacts with	manganese
+ITGA2B	interacts with	tirofiban
+ITGA2B	interacts with	ITGB3
+ITGAV	interacts with	copper
+ITGAV	interacts with	manganese
+ITGB3	interacts with	lefradafiban
+ITGB3	interacts with	eptifibatide
+ITGB3	interacts with	MgATP
+ITGB3	interacts with	guanosine trip.
+ITGB3	interacts with	phosphate
+ITGB3	interacts with	tirofiban
+ITGB3	interacts with	manganese
+ITGB3	interacts with	ITGAV
+CCR5	interacts with	KRAS
+CCR5	interacts with	guanosine trip.
+CCR5	interacts with	caffeine
+CCR5	interacts with	adenosine
+CCR5	interacts with	STAT3
+CCL5	interacts with	heparin di.e i.
+CCL5	interacts with	heparin disacc.
+CCL5	interacts with	DB02353
+CCL5	interacts with	LY294002 hydro.
+CCL5	interacts with	CFTR
+CCL5	interacts with	NFKB1
+CCL5	interacts with	guanosine trip.
+CCL5	interacts with	caffeine
+CCL5	interacts with	adenosine
+CCL5	interacts with	IL1B
+CCL5	interacts with	CCR5
